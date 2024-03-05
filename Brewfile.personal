@@ -1,0 +1,15 @@
+tap "twitchdev/twitch"
+
+brew "aria2" # Download with resuming and segmented downloading
+brew "ffmpeg" # Play, record, convert, and stream audio and video
+brew "neovim" # Ambitious Vim-fork focused on extensibility and agility
+brew "postgresql@14" # Object-relational database system
+brew "yt-dlp" # Fork of youtube-dl with additional features and fixes
+brew "twitchdev/twitch/twitch-cli" # CLI for Twitch's developer offerings
+
+cask "balenaetcher" # Tool to flash OS images to SD cards & USB drives
+cask "blackhole-2ch" # Virtual Audio Driver
+cask "bloomrpc" # GUI Client for GRPC Services
+cask "iina" # Free and open-source media player
+cask "mongodb-compass" # Interactive tool for analyzing MongoDB data
+cask "transmission" # Open-source BitTorrent client
