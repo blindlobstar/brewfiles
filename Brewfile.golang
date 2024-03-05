@@ -1,0 +1,2 @@
+brew "golang-migrate" # Database migrations CLI tool
+brew "golangci-lint" # Fast linters runner for Go
