@@ -1,0 +1,37 @@
+tap "gabrie30/utils"
+tap "jesseduffield/lazygit"
+tap "koekeishiya/formulae"
+
+brew "autojump" # Shell extension to jump to frequently used directories
+brew "catimg" # Insanely fast image printing in your terminal
+brew "curl" # Get a file from an HTTP, HTTPS or FTP server
+brew "fdupes" # Identify or delete duplicate files
+brew "fzf" # Command-line fuzzy finder written in Go
+brew "git" # Distributed revision control system
+brew "gnupg" # GNU Pretty Good Privacy (PGP) package
+brew "graphviz" # Graph visualization software from AT&T and Bell Labs
+brew "grep" # GNU grep, egrep and fgrep
+brew "htop" # Improved top (interactive process viewer)
+brew "lazydocker" # Lazier way to manage everything docker
+brew "nnn" # Tiny, lightning fast, feature-packed file manager
+brew "openssl@1.1" # Cryptography and SSL/TLS Toolkit
+brew "tree" # Display directories as trees (with optional color/HTML output)
+brew "pass" # Password manager
+brew "pass-otp" # Pass extension for managing one-time-password tokens
+brew "pidof" # Display the PID number for a given process name
+brew "poppler" # PDF rendering library (based on the xpdf-3.0 code base)
+brew "sops" # Editor of encrypted files
+brew "stow" # Organize software neatly under a single directory tree (e.g. /usr/local)
+brew "tmux" # Terminal multiplexer
+brew "tokei" # Program that allows you to count code, quickly
+brew "wrk" # HTTP benchmarking tool
+brew "zbar" # Suite of barcodes-reading tools
+brew "gabrie30/utils/ghorg" # Quickly clone an entire org/users repositories into one directory
+brew "jesseduffield/lazygit/lazygit" # A simple terminal UI for git commands, written in Go
+brew "koekeishiya/formulae/skhd" # Simple hotkey-daemon for macOS.
+brew "yoheimuta/protolint/protolint" # Pluggable tool to enforce Protocol Buffer style and conventions
+
+cask "alt-tab" # Enable Windows-like alt-tab
+cask "docker" # App to build and share containerised applications and microservices
+cask "ngrok" # Reverse proxy, secure introspectable tunnels to localhost
+cask "rectangle" # Move and resize windows using keyboard shortcuts or snap areas
