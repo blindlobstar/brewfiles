@@ -1,3 +1,4 @@
+tap "gabrie30/utils"
 tap "twitchdev/twitch"
 
 brew "aria2" # Download with resuming and segmented downloading
@@ -6,6 +7,9 @@ brew "neovim" # Ambitious Vim-fork focused on extensibility and agility
 brew "postgresql@14" # Object-relational database system
 brew "yt-dlp" # Fork of youtube-dl with additional features and fixes
 brew "twitchdev/twitch/twitch-cli" # CLI for Twitch's developer offerings
+brew "gabrie30/utils/ghorg" # Quickly clone an entire org/users repositories into one directory
+brew "wrk" # HTTP benchmarking tool
+brew "sops" # Editor of encrypted files
 
 cask "balenaetcher" # Tool to flash OS images to SD cards & USB drives
 cask "blackhole-2ch" # Virtual Audio Driver
